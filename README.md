@@ -1,2 +1,2 @@
-# dlnd_image_classification
+# Image_classification_DL
 Image Classification Project
